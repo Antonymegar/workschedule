@@ -27,7 +27,6 @@ import { Table, TableBody, TableCell, TableRow } from "@/components/ui/table";
 
 import TableHeader from "./TableHeader";
 import { TableFooter } from "./Footer";
-import SearchBar from "./Header/SearchBar";
 import { Input } from "../ui/input";
 
 export interface DataTableProps<TData, TValue> {

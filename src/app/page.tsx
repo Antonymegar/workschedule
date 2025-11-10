@@ -1,4 +1,3 @@
-// src/app/work-orders/page.tsx
 import { listWorkOrders } from '@/lib/work-orders';
 import { DataTable } from "@/components/data-table";
 import TableClient from './table-client';

@@ -67,7 +67,7 @@ export function ProjectActions<TData>({ row }: ProjectActionsProps<TData>) {
       const result = await res.json();
       if (!res.ok) {
         if (result.fieldErrors) {
-          setErrors(result.fieldErrors); // <-- store field errors
+          setErrors(result.fieldErrors); 
         } else {
           toast.error(result.error || "Something went wrong");
         }
