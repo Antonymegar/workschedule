@@ -1,0 +1,42 @@
+[
+  {
+    "id": "43c96fe6-09c5-4531-8c8e-ea88884fe151",
+    "title": "Replace hallway light",
+    "description": "Fixture above suite 201 flickers intermittently.",
+    "priority": "Medium",
+    "status": "Open",
+    "updatedAt": "2025-11-10T06:11:22.629Z"
+  },
+  {
+    "id": "0f383a4b-4e69-48ab-b93f-c863dfa5b10b",
+    "title": "Server room AC check",
+    "description": "Temperature drift observed - schedule preventative maintenance.",
+    "priority": "High",
+    "status": "In Progress",
+    "updatedAt": "2025-11-09T06:11:22.629Z"
+  },
+  {
+    "id": "b6a5a553-d89b-4bd0-850b-fca895feaf25",
+    "title": "Office chairs reorder",
+    "description": "Ergonomic chairs for 4 new hires",
+    "priority": "Low",
+    "status": "Done",
+    "updatedAt": "2025-11-03T06:11:22.629Z"
+  },
+  {
+    "id": "f9b3327c-fde3-4eb8-a9c4-0050fea6b718",
+    "title": "Legal work",
+    "description": "Represent a defendant on a small claim dispute",
+    "priority": "Low",
+    "status": "Open",
+    "updatedAt": "2025-11-10T07:19:04.490Z"
+  },
+  {
+    "id": "0b72327c-bad1-4e6b-935e-612a3c44fe23",
+    "title": "Create Schedule",
+    "description": "Create work schedule for junior technicians",
+    "priority": "High",
+    "status": "Open",
+    "updatedAt": "2025-11-10T08:17:43.805Z"
+  }
+]
